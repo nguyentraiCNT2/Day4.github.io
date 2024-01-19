@@ -25,7 +25,6 @@
     %>
     <h1>RanDom value: <%= randomint%></h1>
     <%
-
     }else{
     %>
     <h1>RanDom value: <%= randomint%></h1>
